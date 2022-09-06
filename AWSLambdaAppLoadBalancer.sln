@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaAppLoadBalancer", "AWSLambdaAppLoadBalancer\AWSLambdaAppLoadBalancer.csproj", "{EB14334B-76E4-4C92-8B5A-D7FA21D7E47D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaAppLoadBalancer.Tests", "AWSLambdaAppLoadBalancer.Tests\AWSLambdaAppLoadBalancer.Tests.csproj", "{5F451D66-5C2D-47DD-A723-BB1C4E27FDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB14334B-76E4-4C92-8B5A-D7FA21D7E47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB14334B-76E4-4C92-8B5A-D7FA21D7E47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB14334B-76E4-4C92-8B5A-D7FA21D7E47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB14334B-76E4-4C92-8B5A-D7FA21D7E47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F451D66-5C2D-47DD-A723-BB1C4E27FDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F451D66-5C2D-47DD-A723-BB1C4E27FDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F451D66-5C2D-47DD-A723-BB1C4E27FDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F451D66-5C2D-47DD-A723-BB1C4E27FDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {836E2D5A-FB31-4464-A9A5-E78228D182A1}
+	EndGlobalSection
+EndGlobal
